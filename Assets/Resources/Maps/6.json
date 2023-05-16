@@ -1,0 +1,135 @@
+{
+  "ItemsMap": [
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": 3.869999885559082,
+        "y": -1.1299999952316285
+      },
+      "TargetScore": 7020,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": -1.2899999618530274,
+        "y": -2.569999933242798
+      },
+      "TargetScore": 7020,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": 5.360000133514404,
+        "y": -2.990000009536743
+      },
+      "TargetScore": 7020,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 3.180000066757202,
+        "y": -2.009999990463257
+      },
+      "TargetScore": 7020,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 4.369999885559082,
+        "y": -2.950000047683716
+      },
+      "TargetScore": 7020,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 4.590000152587891,
+        "y": -1.0
+      },
+      "TargetScore": 7020,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangvua_0",
+      "pos": {
+        "x": -4.929999828338623,
+        "y": -2.609999895095825
+      },
+      "TargetScore": 7020,
+      "Score": 300,
+      "GetScore": 300
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": -1.2599999904632569,
+        "y": -0.23000000417232514
+      },
+      "TargetScore": 7020,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": 4.210000038146973,
+        "y": -2.059999942779541
+      },
+      "TargetScore": 7020,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "vangsieulon_0",
+      "pos": {
+        "x": 1.0700000524520875,
+        "y": -2.490000009536743
+      },
+      "TargetScore": 7020,
+      "Score": 500,
+      "GetScore": 500
+    },
+    {
+      "nameItems": "vangvua_0",
+      "pos": {
+        "x": -2.069999933242798,
+        "y": -1.7599999904632569
+      },
+      "TargetScore": 7020,
+      "Score": 300,
+      "GetScore": 300
+    },
+    {
+      "nameItems": "vangsieulon_0",
+      "pos": {
+        "x": 4.400000095367432,
+        "y": -0.5600000023841858
+      },
+      "TargetScore": 7020,
+      "Score": 500,
+      "GetScore": 500
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": -2.240000009536743,
+        "y": -0.3100000023841858
+      },
+      "TargetScore": 7020,
+      "Score": 20,
+      "GetScore": 5330
+
+    }
+  ]
+}

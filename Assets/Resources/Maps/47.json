@@ -1,0 +1,205 @@
+{
+  "ItemsMap": [
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -1.3700000047683716,
+        "y": -2.880000114440918
+      },
+      "TargetScore": 116603,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -0.6727824211120606,
+        "y": -1.7818078994750977
+      },
+      "TargetScore": 116603,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": 4.092534065246582,
+        "y": -1.8145592212677003
+      },
+      "TargetScore": 116603,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": 3.2573764324188234,
+        "y": -0.5863845944404602
+      },
+      "TargetScore": 116603,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -4.6356916427612309,
+        "y": -2.682469129562378
+      },
+      "TargetScore": 116603,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": 4.0748748779296879,
+        "y": -1.7654320001602173
+      },
+      "TargetScore": 116603,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": 4.242382526397705,
+        "y": -0.6499999761581421
+      },
+      "TargetScore": 116603,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": -2.210907220840454,
+        "y": -2.256702184677124
+      },
+      "TargetScore": 116603,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": -5.963395595550537,
+        "y": 0.19964706897735597
+      },
+      "TargetScore": 116603,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": -5.759444713592529,
+        "y": -2.829850196838379
+      },
+      "TargetScore": 116603,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 2.5695981979370119,
+        "y": 0.34702810645103457
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 2.553223133087158,
+        "y": -0.7010141015052795
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 1.1612920761108399,
+        "y": -1.4215432405471802
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": -0.03413146734237671,
+        "y": -2.1256966590881349
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": -5.099999904632568,
+        "y": 0.46000000834465029
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "tnt_0",
+      "pos": {
+        "x": 0.23731762170791627,
+        "y": -0.8188351392745972
+      },
+      "TargetScore": 116603,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "xuonglon_0",
+      "pos": {
+        "x": 2.085836172103882,
+        "y": -1.4409325122833253
+      },
+      "TargetScore": 116603,
+      "Score": 15,
+      "GetScore": 15
+    },
+    {
+      "nameItems": "tuimayman_0",
+      "pos": {
+        "x": 4.734194278717041,
+        "y": -2.169675350189209
+      },
+      "TargetScore": 116603,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": -3.5799999237060549,
+        "y": -1.4900000095367432
+      },
+      "TargetScore": 116603,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangvua_0",
+      "pos": {
+        "x": -2.2699999809265138,
+        "y": -0.46000000834465029
+      },
+      "TargetScore": 116645,
+      "Score": 300,
+      "GetScore": 113235
+
+    }
+  ]
+}

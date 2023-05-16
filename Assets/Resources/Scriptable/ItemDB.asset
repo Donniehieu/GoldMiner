@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defa74b83c56aac41b39495d679e6d73, type: 3}
+  m_Name: ItemDB
+  m_EditorClassIdentifier: 
+  imgVangNho: {fileID: 21300000, guid: d77a7b3eb0b5f1644bf152892a04601f, type: 3}
+  imgVangVua: {fileID: 21300000, guid: e860342176457ce4294207620a280f95, type: 3}
+  imgVangSieuLon: {fileID: 21300000, guid: 0004703de36dc434ca864861945c7b08, type: 3}
+  imgKimCuong: {fileID: 21300000, guid: 68b129fd7f7e8c04abf7a46d0eda47cd, type: 3}
+  imgChuot: {fileID: 21300000, guid: 58b37a284fab0374e9f8eb07eba3bdc3, type: 3}
+  imgDaNho: {fileID: 21300000, guid: 74c97da0ade033146893b953b69b934c, type: 3}
+  imgDaLon: {fileID: 21300000, guid: a2d50e42a7fc84342aa532f7e35cca90, type: 3}
+  imgXuongLon: {fileID: 21300000, guid: 177bbb3a682cc544484683f176fad317, type: 3}
+  imgTuiMayMan: {fileID: 21300000, guid: 97bcf888eb169e646aa6c8ae95bc831d, type: 3}
+  imgTnt: {fileID: 21300000, guid: 75ad6780516e9d74886b5587f41e030e, type: 3}
+  imgBoom: {fileID: 21300000, guid: 616464674280d9246aa25493548a88b0, type: 3}
+  imgClock: {fileID: 21300000, guid: 448f19dd49885274882dc93e04316827, type: 3}
+  imgCayMayMan: {fileID: 21300000, guid: 11e39ca285413ae4e80698d87c027122, type: 3}
+  imgNuocDanhBong: {fileID: 21300000, guid: cbcf3caa707117546a40e529d710e6e8, type: 3}
+  imgVoucher: {fileID: 21300000, guid: dfd864019e5385440a3f42c8533cfa7b, type: 3}
+  imgPower: {fileID: 21300000, guid: 7213a59c3b8c0df4abbb4be9e5302aef, type: 3}
+  imgbtnSoundOn: {fileID: 21300000, guid: 1c0ffedbe611ff64d857bc0fd2c20604, type: 3}
+  imgbtnSoundOff: {fileID: 21300000, guid: 91dd2d26445734b448c8f30cd742dc06, type: 3}
+  imgbtnMusicOn: {fileID: 21300000, guid: 41c731b4136943c42a48a6cd3cc8d3c7, type: 3}
+  imgbtnMusicOff: {fileID: 21300000, guid: 562d7ac524607e8438e6f12cf13220ae, type: 3}
+  imgBGCountrySide: {fileID: 21300000, guid: a3757eb679f98e34cbad9f7582145209, type: 3}
+  imgBGDesert: {fileID: 21300000, guid: 8ae634887d4410348bbc5b16e2f061c9, type: 3}

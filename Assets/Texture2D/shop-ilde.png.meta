@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 7a359842c16358040afb52f0f45ed8b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 868646561906010227
+    second: shop-ilde_0
+  - first:
+      213: -2271646902439620299
+    second: shop-ilde_1
+  - first:
+      213: 6755846941528913254
+    second: shop-ilde_2
+  - first:
+      213: 8161902042206044127
+    second: shop-ilde_3
+  - first:
+      213: 7913326102856852555
+    second: shop-ilde_4
+  - first:
+      213: 2328385762265590311
+    second: shop-ilde_5
+  - first:
+      213: 5851484664363587596
+    second: shop-ilde_6
+  - first:
+      213: 2466144137464991388
+    second: shop-ilde_7
+  - first:
+      213: 1534171209746047281
+    second: shop-ilde_8
+  - first:
+      213: 6634273121969052132
+    second: shop-ilde_9
+  - first:
+      213: 8248379332446042099
+    second: shop-ilde_10
+  - first:
+      213: 7886000703764463531
+    second: shop-ilde_11
+  - first:
+      213: 5827076252429177178
+    second: shop-ilde_12
+  - first:
+      213: 4989349838084240293
+    second: shop-ilde_13
+  - first:
+      213: 8439021750241561189
+    second: shop-ilde_14
+  - first:
+      213: -5962051190980101661
+    second: shop-ilde_15
+  - first:
+      213: -340723754445106194
+    second: shop-ilde_16
+  - first:
+      213: 8940069597264537856
+    second: shop-ilde_17
+  - first:
+      213: -8205091770336855281
+    second: shop-ilde_18
+  - first:
+      213: 7904885775139837269
+    second: shop-ilde_19
+  - first:
+      213: 1980228232652223690
+    second: shop-ilde_20
+  - first:
+      213: 1887284826855964060
+    second: shop-ilde_21
+  - first:
+      213: 2016831162637649623
+    second: shop-ilde_22
+  - first:
+      213: 6169478178290085627
+    second: shop-ilde_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shop-ilde_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 327
+        width: 149
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a5cd127d0e0c00800000000000000
+      internalID: 868646561906010227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 326
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53158fc8d2d7970e0800000000000000
+      internalID: -2271646902439620299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 326
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657db2dff691cd50800000000000000
+      internalID: 6755846941528913254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 326
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff93de9a6e44170800000000000000
+      internalID: 8161902042206044127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 326
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44eb98f928c1dd60800000000000000
+      internalID: 7913326102856852555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 327
+        width: 149
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aeae3b386105020800000000000000
+      internalID: 2328385762265590311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 326
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08990cbc46a43150800000000000000
+      internalID: 5851484664363587596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_7
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 326
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e438ed601893220800000000000000
+      internalID: 2466144137464991388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 326
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316b8d36987a4510800000000000000
+      internalID: 1534171209746047281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_9
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 327
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e913e9214ca11c50800000000000000
+      internalID: 6634273121969052132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_10
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 327
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7be131d41287270800000000000000
+      internalID: 8248379332446042099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_11
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 326
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7c56bbd3b07d60800000000000000
+      internalID: 7886000703764463531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 140
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d7297afeedd050800000000000000
+      internalID: 5827076252429177178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 140
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f9273e3bbd3540800000000000000
+      internalID: 4989349838084240293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 141
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a81fae19d6d1570800000000000000
+      internalID: 8439021750241561189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 140
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9bfe4b70a824da0800000000000000
+      internalID: -5962051190980101661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 140
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee313c1fc81854bf0800000000000000
+      internalID: -340723754445106194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_17
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 140
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e834aee1811c70800000000000000
+      internalID: 8940069597264537856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 141
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b379fd188a12e80800000000000000
+      internalID: -8205091770336855281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_19
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 141
+        width: 149
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559f390bbbc3bd60800000000000000
+      internalID: 7904885775139837269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_20
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 141
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac47f6df51f2b7b10800000000000000
+      internalID: 1980228232652223690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_21
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 140
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dfbbefc8bf03a10800000000000000
+      internalID: 1887284826855964060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_22
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 140
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d684fcb1493dfb10800000000000000
+      internalID: 2016831162637649623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-ilde_23
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 141
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe218247b36e9550800000000000000
+      internalID: 6169478178290085627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

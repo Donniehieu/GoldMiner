@@ -1,0 +1,296 @@
+{
+  "ItemsMap": [
+    {
+      "nameItems": "tnt_0",
+      "pos": {
+        "x": -1.0,
+        "y": 0.20999999344348908
+      },
+      "TargetScore": 109905,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "tnt_0",
+      "pos": {
+        "x": 0.8600000739097595,
+        "y": -1.2100000381469727
+      },
+      "TargetScore": 109905,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -1.8799998760223389,
+        "y": -0.8799999952316284
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "tuimayman_0",
+      "pos": {
+        "x": -1.1299999952316285,
+        "y": -3.059999942779541
+      },
+      "TargetScore": 109905,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "xuonglon_0",
+      "pos": {
+        "x": 2.440000057220459,
+        "y": -1.0499999523162842
+      },
+      "TargetScore": 109905,
+      "Score": 15,
+      "GetScore": 15
+    },
+    {
+      "nameItems": "mouse2_0",
+      "pos": {
+        "x": -3.7256827354431154,
+        "y": -2.859999895095825
+      },
+      "TargetScore": 109905,
+      "Score": 605,
+      "GetScore": 605
+    },
+    {
+      "nameItems": "mouse2_0",
+      "pos": {
+        "x": 5.832376956939697,
+        "y": 0.6899999976158142
+      },
+      "TargetScore": 109905,
+      "Score": 605,
+      "GetScore": 605
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": 0.18000000715255738,
+        "y": -2.569999933242798
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": -3.2200000286102297,
+        "y": -1.5700000524520875
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "xuonglon_0",
+      "pos": {
+        "x": 4.759999752044678,
+        "y": -1.1299999952316285
+      },
+      "TargetScore": 109905,
+      "Score": 15,
+      "GetScore": 15
+    },
+    {
+      "nameItems": "tnt_0",
+      "pos": {
+        "x": -1.1699999570846558,
+        "y": -1.9199999570846558
+      },
+      "TargetScore": 109905,
+      "Score": 0,
+      "GetScore": 0
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -3.7899999618530275,
+        "y": -1.649999976158142
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -3.630000114440918,
+        "y": -0.20000000298023225
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "mouse2_0",
+      "pos": {
+        "x": -0.8795827627182007,
+        "y": -2.8499999046325685
+      },
+      "TargetScore": 109905,
+      "Score": 605,
+      "GetScore": 605
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -5.460000038146973,
+        "y": -1.9500000476837159
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "kimcuong_0",
+      "pos": {
+        "x": -0.3799999952316284,
+        "y": -1.159999966621399
+      },
+      "TargetScore": 109905,
+      "Score": 600,
+      "GetScore": 600
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 1.3900001049041749,
+        "y": 0.3499999940395355
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 5.239999771118164,
+        "y": -2.180000066757202
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 3.609999895095825,
+        "y": -1.149999976158142
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 5.710000038146973,
+        "y": 0.3199999928474426
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "mouse1_0",
+      "pos": {
+        "x": 4.600643634796143,
+        "y": -2.9700000286102297
+      },
+      "TargetScore": 109905,
+      "Score": 5,
+      "GetScore": 5
+    },
+    {
+      "nameItems": "dalon",
+      "pos": {
+        "x": -3.059999942779541,
+        "y": 0.07000000029802323
+      },
+      "TargetScore": 109905,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "dalon",
+      "pos": {
+        "x": 1.7200000286102296,
+        "y": -2.559999942779541
+      },
+      "TargetScore": 109905,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": -5.110000133514404,
+        "y": -1.6799999475479127
+      },
+      "TargetScore": 109905,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": -3.0299999713897707,
+        "y": -2.619999885559082
+      },
+      "TargetScore": 109905,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "danho",
+      "pos": {
+        "x": 4.929999828338623,
+        "y": -1.9500000476837159
+      },
+      "TargetScore": 109905,
+      "Score": 20,
+      "GetScore": 20
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 2.2100000381469728,
+        "y": -2.869999885559082
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 3.759999990463257,
+        "y": -2.759999990463257
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 150
+    },
+    {
+      "nameItems": "vangnho_0",
+      "pos": {
+        "x": 4.360000133514404,
+        "y": 0.49000000953674319
+      },
+      "TargetScore": 109905,
+      "Score": 150,
+      "GetScore": 106655
+
+
+    }
+  ]
+}

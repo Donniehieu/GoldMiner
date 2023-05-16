@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdecc3dc77837484cbf159aa86b16d33, type: 3}
+  m_Name: ClipData
+  m_EditorClassIdentifier: 
+  clipCongQua: {fileID: 8300000, guid: 311aa5d1f188f8d44bfea4f545b16be1, type: 3}
+  clipCongTien: {fileID: 8300000, guid: bd05c8fd7e1b95841915d1b1008d3029, type: 3}
+  clipDongHo: {fileID: 8300000, guid: 5fa9a66ff807adc44a06a427a3b70983, type: 3}
+  clipFail: {fileID: 8300000, guid: cc2bc9289c4fc4242b5a380653ec7b9b, type: 3}
+  clipGetDa: {fileID: 8300000, guid: 6fe73bb40ed15854d88e9d65c4e60f3c, type: 3}
+  clipGetKimCuong: {fileID: 8300000, guid: d0efc717590e4624c95b8d98642f8d61, type: 3}
+  clipGetVangLon: {fileID: 8300000, guid: eb7cc35eb0dff1643b0e839fed13a368, type: 3}
+  clipGetVangNho: {fileID: 8300000, guid: c142a610131e96947ab352c4a66cad33, type: 3}
+  clipKeoDay: {fileID: 8300000, guid: 329533a590966c6479ad96912381bcdf, type: 3}
+  clipLevel: {fileID: 8300000, guid: 3ab27f88ae5919b44846464067b3a668, type: 3}
+  clipLuuDan: {fileID: 8300000, guid: 1e90ebbf777578a4bb410156447e9d1e, type: 3}
+  clipMucTieu: {fileID: 8300000, guid: 4362e1bec408a194caddb3dcdb43e29e, type: 3}
+  clipNoTnt: {fileID: 8300000, guid: 89e7d8ae2e0899c4790e71368eb8e7c8, type: 3}
+  clipThaDay: {fileID: 8300000, guid: ea3f5d4b603e0b049b5b390feba9f9eb, type: 3}
+  clipTouch: {fileID: 8300000, guid: 5c563ff4514efc54cad6f78fe106e552, type: 3}
+  clipWin: {fileID: 8300000, guid: 85f74637c7b9134438e3850cdcdf5ecb, type: 3}

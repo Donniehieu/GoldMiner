@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721832005785",
+    "project_id": "gold-miner-treasure-seeker",
+    "storage_bucket": "gold-miner-treasure-seeker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721832005785:android:d97412c0c2f6948549a808",
+        "android_client_info": {
+          "package_name": "com.hieu.hieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721832005785-snuia11lmhcq084eqeqqueak8sbo0ruk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW5tKZhpfoOh4zhNuICUJukqGkJB-qRQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721832005785-snuia11lmhcq084eqeqqueak8sbo0ruk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
